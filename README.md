@@ -2,16 +2,17 @@
 <h3 align="center">I`m a Front-end Developer passionate about bringing web applications to life. My journey into the world of web development began in 2018, and it all started with the curiosity of customizing Tumblr themes. Little did I know that tinkering with HTML, CSS and Javascript to create a custom reblog button would ignite a lifelong fascination with crafting things on the internet!</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukhari-ct&show_icons=true&locale=en&layout=compact" alt="bukhari-ct" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bukhari-ct&" alt="bukhari-ct" />
+👨‍💻 <a href="https://bukhari-ct.github.io/FrontlineForge/">Visit my portfolio</a>
+
+📫 How to reach me **faisalbukhari111@gmail.com**
 </div>
+
 
 <div>
-- 👨‍💻 <a href="https://bukhari-ct.github.io/FrontlineForge/">Visit my portfolio</a>
-
-- 📫 How to reach me **faisalbukhari111@gmail.com**
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukhari-ct&show_icons=true&locale=en&layout=compact" alt="bukhari-ct" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bukhari-ct&" alt="bukhari-ct" />
 </div>
-
+<br/>
 <h3 align="left">Connect with me:</h3>
   <br/>
 <p align="left">
