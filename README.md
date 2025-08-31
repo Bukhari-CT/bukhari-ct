@@ -20,7 +20,7 @@
   
 ### 🌟 **About My Journey**
 
-*My adventure into web development began in 2018 with a simple curiosity—customizing Tumblr themes. What started as tinkering with HTML, CSS, and JavaScript to create a custom reblog button has evolved into a lifelong passion for crafting beautiful, functional web experiences. Today, I specialize in building full-stack applications with React, Node.js, and modern web technologies.*
+_My adventure into web development began in 2018 with a simple curiosity—customizing Tumblr themes. What started as tinkering with HTML, CSS, and JavaScript to create a custom reblog button has evolved into a lifelong passion for crafting beautiful, functional web experiences. Today, I specialize in building full-stack applications with React, Node.js, and modern web technologies._
 
 </div>
 
@@ -97,10 +97,21 @@
 
 <div align="center">
   
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bukhari-ct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff"/>
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bukhari-ct&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bukhari-ct&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukhari-ct&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff"/>
   
 </div>
+
+<br />
+
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bukhari-ct&theme=tokyo-night&hide_border=true&area=true&color=00D4AA&line=00D4AA&point=00D4AA)
+  
+</div>
+
+<br />
 
 <div align="center">
   
@@ -108,11 +119,7 @@
   
 </div>
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bukhari-ct&theme=tokyo-night&hide_border=true&area=true&color=00D4AA&line=00D4AA&point=00D4AA)
-  
-</div>
+<br />
 
 ---
 
@@ -121,16 +128,19 @@
 <div align="center">
 
 ### **Frontend Technologies**
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap" />
 </p>
 
 ### **Backend Technologies**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,nestjs,postgresql,mongodb,redis" />
 </p>
 
 ### **Tools & Platforms**
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,supabase,figma,webpack,babel,jest,linux,vscode" />
 </p>
